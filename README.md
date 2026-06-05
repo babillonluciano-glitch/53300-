@@ -7,7 +7,7 @@ Proyecto de un analizador sintáctico y léxico generado con **ANTLR4** y **Node
 * Tener instalado **Java** (necesario para el compilador de ANTLR4).
 
 ## Integrantes
-* Juan Pablo
+* Luciano Babillon
 
 ## Cómo Ejecutar la Aplicación
 1. Descargue o clone este repositorio.
