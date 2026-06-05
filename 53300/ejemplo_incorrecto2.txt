@@ -1,0 +1,4 @@
+while (hola) {
+    printf("invalido");
+    break;
+}
